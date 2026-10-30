@@ -143,33 +143,36 @@ Struktur tersebut dipilih karena mudah digunakan untuk mengelola dan mengolah se
 
 ## 9. Rancangan Test Case
 
-No.| Skenario Pengujian| Hasil yang Diharapkan
-1| Memasukkan nilai 85| Data diterima dan status tuntas
-2| Memasukkan nilai 75| Data diterima dan status tuntas
-3| Memasukkan nilai 60| Data diterima dan status belum tuntas
-4| Memasukkan nilai 105| Data ditolak karena melebihi batas
-5| Memasukkan nilai -5| Data ditolak karena kurang dari 0
-6| Memasukkan beberapa data siswa| Program menampilkan hasil analisis kelas dengan benar
+| No. | Skenario Pengujian | Hasil yang Diharapkan |
+|---|---|---|
+| 1 | Memasukkan nilai 85 | Data diterima dan status tuntas |
+| 2 | Memasukkan nilai 75 | Data diterima dan status tuntas |
+| 3 | Memasukkan nilai 60 | Data diterima dan status belum tuntas |
+| 4 | Memasukkan nilai 105 | Data ditolak karena melebihi batas |
+| 5 | Memasukkan nilai -5 | Data ditolak karena kurang dari 0 |
+| 6 | Memasukkan beberapa data siswa | Program menampilkan hasil analisis kelas dengan benar |
 
 ## 10. Pembagian Tugas
 
 Pembagian tugas disesuaikan dengan jumlah anggota kelompok.
 
-Peran| Tanggung Jawab
-Koordinator| Mengatur proses pengerjaan proyek
-Programmer| Mengembangkan fungsi dan logika program
-Penguji| Melakukan pengujian dan memeriksa kesalahan
-Dokumentasi| Menyusun proposal dan dokumentasi proyek
+| Peran | Tanggung Jawab |
+|---|---|
+| Koordinator | Mengatur proses pengerjaan proyek |
+| Programmer | Mengembangkan fungsi dan logika program |
+| Penguji | Melakukan pengujian dan memeriksa kesalahan |
+| Dokumentasi | Menyusun proposal dan dokumentasi proyek |
 
 Apabila jumlah anggota terbatas, beberapa tanggung jawab dapat dirangkap dengan tetap menetapkan penanggung jawab setiap tugas.
 
 ## 11. Jadwal Pengerjaan
 
-Tahap| Kegiatan
-Pertemuan 14| Perancangan proyek, IPO, pseudocode, test case, dan dokumentasi awal
-Antara P14–P15| Persiapan implementasi fitur utama
-Pertemuan 15| Implementasi, pengujian, debugging, dan dokumentasi
-Pertemuan 16| Presentasi dan demonstrasi proyek sesuai arahan perkuliahan
+| Tahap | Kegiatan |
+|---|---|
+| Pertemuan 14 | Perancangan proyek, IPO, pseudocode, test case, dan dokumentasi awal |
+| Antara P14–P15 | Persiapan implementasi fitur utama |
+| Pertemuan 15 | Implementasi, pengujian, debugging, dan dokumentasi |
+| Pertemuan 16 | Presentasi dan demonstrasi proyek sesuai arahan perkuliahan |
 
 ## 12. Repository GitHub
 
