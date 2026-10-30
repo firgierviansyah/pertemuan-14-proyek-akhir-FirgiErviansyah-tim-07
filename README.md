@@ -46,7 +46,7 @@ Proyek ini dibuat sebagai bagian dari kegiatan perancangan proyek pada mata kuli
 7. Program menampilkan hasil pengolahan.
 
 ## Struktur Proyek
-
+```text
 proyek-analisis-nilai-siswa/
 │
 ├── README.md
@@ -60,6 +60,7 @@ proyek-analisis-nilai-siswa/
 ├── tests/
 │
 └── output/
+``` 
 
 Struktur di atas merupakan gambaran umum. Susunan akhirnya mengikuti folder proyek yang digunakan dalam pengerjaan.
 
