@@ -13,16 +13,17 @@ Pengujian dilakukan untuk memastikan bahwa rancangan program dapat menerima data
 
 ## 3. Skenario Pengujian
 
-No.| Data atau Kondisi| Hasil yang Diharapkan
-1| Nilai siswa 85| Data diterima, status tuntas
-2| Nilai siswa 75| Data diterima, status tuntas
-3| Nilai siswa 60| Data diterima, status belum tuntas
-4| Nilai siswa 105| Data ditolak karena melebihi batas
-5| Nilai siswa -5| Data ditolak karena kurang dari batas
-6| Nilai siswa 0| Data diterima, status belum tuntas
-7| Nilai siswa 100| Data diterima, status tuntas
-8| Data beberapa siswa: 80, 70, dan 90| Rata-rata 80, nilai tertinggi 90, nilai terendah 70
-9| Tidak ada data siswa| Program menampilkan pemberitahuan bahwa data belum tersedia
+| No. | Data atau Kondisi | Hasil yang Diharapkan |
+| --- | --- | --- |
+| 1 | Nilai siswa 85 | Data diterima, status tuntas |
+| 2 | Nilai siswa 75 | Data diterima, status tuntas |
+| 3 | Nilai siswa 60 | Data diterima, status belum tuntas |
+| 4 | Nilai siswa 105 | Data ditolak karena melebihi batas |
+| 5 | Nilai siswa -5 | Data ditolak karena kurang dari batas |
+| 6 | Nilai siswa 0 | Data diterima, status belum tuntas |
+| 7 | Nilai siswa 100 | Data diterima, status tuntas |
+| 8 | Data beberapa siswa: 80, 70, dan 90 | Rata-rata 80, nilai tertinggi 90, nilai terendah 70 |
+| 9 | Tidak ada data siswa | Program menampilkan pemberitahuan bahwa data belum tersedia |
 
 ## 4. Kesimpulan Pengujian
 
