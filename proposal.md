@@ -175,7 +175,7 @@ Pertemuan 16| Presentasi dan demonstrasi proyek sesuai arahan perkuliahan
 
 Repository proyek:
 
-URL: [Masukkan tautan repository GitHub di sini]
+URL: https://github.com/firgierviansyah/pertemuan-14-proyek-akhir-FirgiErviansyah-tim-07.git
 
 Repository digunakan untuk menyimpan dokumen rancangan dan perkembangan proyek.
 
